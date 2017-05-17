@@ -6,14 +6,12 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here! 
-
-* I’ve learned:
+  * I’ve learned:
 	- how to use Atom (open files in it, write HTML and see the outcome in browser);
 	- some HTML elements and notions (how they are structured and when to use them); 
 	- how to structure my code while I’m writing it;
 	- how to research in depth for some particular elements as <sup> for example;
 	- I’ve created my very first GitHub repository.
-* It has been easy to find the informations on the web about HTML elements and to create website from a mockup. I’m really enjoying it.
-* It has been a bit difficult to choose the right HTML element for the requirements (for example the last row of the project mockup was a footer note and I wasn’t sure if I have to put it between <p>, <footer> or none of them) and also to understand why I have to write certain things in HTML (ex. the paragraph between <figcaption>).
-* I don’t think that I’ve encountered challenges this big till now, I like what I’m learning here.
+  * It has been easy to find the informations on the web about HTML elements and to create website from a mockup. I’m really enjoying it.
+  * It has been a bit difficult to choose the right HTML element for the requirements (for example the last row of the project mockup was a footer note and I wasn’t sure if I have to put it between <p>, <footer> or none of them) and also to understand why I have to write certain things in HTML (ex. the paragraph between <figcaption>).
+  * I don’t think that I’ve encountered challenges this big till now, I like what I’m learning here.
